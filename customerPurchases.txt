@@ -1,0 +1,8 @@
+Johns CarShop;cary@purdue.edu;Honda Civic;28000
+Toys R Us;stephen23@purdue.edu;Star Wars Lego;34
+Carls Cookies;cary@purdue.edu;Almonds;2
+Carls Cookies;cary@purdue.edu;Almonds;2
+Carls Cookies;cary@purdue.edu;Almonds;2
+Carls Coffee;cary@purdue.edu;Frappe;13
+Carls Coffee;stephen23@purdue.edu;Frappe;13
+Toys R Us;cary@purdue.edu;Harry Potter Lego;45

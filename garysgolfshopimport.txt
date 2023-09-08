@@ -1,0 +1,3 @@
+golf balls,go very far,129,13
+shirt,wool,59,20
+golf club,metal club,14,200

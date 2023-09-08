@@ -1,0 +1,6 @@
+Carls Coffee;Frappe;13;carl43@purdue.edu
+Carls Coffee;Black Coffee;5;carl43@purdue.edu
+Carls Coffee;Hot Cocoa;11;carl43@purdue.edu
+Carls Cookies;Chocolate Chip Cookie;5;carl43@purdue.edu
+Carls Cookies;Almonds;2;carl43@purdue.edu
+Carls Cookies;Pumpkin Cookie;7;carl43@purdue.edu

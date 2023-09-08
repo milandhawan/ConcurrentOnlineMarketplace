@@ -1,0 +1,2 @@
+Michaels Restuarant;Cheeseburger;8;mikeburgers
+Michaels Restuarant;Cheese Curds;6;mikeburgers

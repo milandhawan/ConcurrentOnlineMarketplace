@@ -1,0 +1,4 @@
+carl43@purdue.edu,CC3443
+john731@purdue.edu,weLoveCS180
+mikeburgers@purdue.edu,burg3rs
+kobe24@purdue.edu,blackMamba8

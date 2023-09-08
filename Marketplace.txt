@@ -1,0 +1,12 @@
+Carls Coffee;Frappe;13;carl43@purdue.edu
+Carls Coffee;Black Coffee;5;carl43@purdue.edu
+Carls Coffee;Hot Cocoa;11;carl43@purdue.edu
+Johns CarShop;Honda Civic;28000;john731@purdue.edu
+Johns CarShop;Honda CRV;31000;john731@purdue.edu
+Michaels Restuarant;Cheeseburger;8;mikeburgers@purdue.edu
+Michaels Restuarant;Cheese Curds;6;mikeburgers@purdue.edu
+Toys R Us;Star Wars Lego;34;kobe24@purdue.edu
+Toys R Us;Harry Potter Lego;45;kobe24@purdue.edu
+Carls Cookies;Chocolate Chip Cookie;5;carl43@purdue.edu
+Carls Cookies;Almonds;2;carl43@purdue.edu
+Carls Cookies;Pumpkin Cookie;7;carl43@purdue.edu

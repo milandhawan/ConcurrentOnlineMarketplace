@@ -1,0 +1,3 @@
+Frappe;warm drink;27;13
+Black Coffee;warm drink;14;5
+Hot Cocoa;hot, sweet drink;33;11

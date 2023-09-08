@@ -1,0 +1,3 @@
+Chocolate Chip Cookie;nut-free;444;5
+Almonds;healthy snack;602;2
+Pumpkin Cookie;only available until December;239;7

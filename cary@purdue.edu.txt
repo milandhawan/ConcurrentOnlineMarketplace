@@ -1,0 +1,6 @@
+Johns CarShop;Honda Civic;28000
+Carls Cookies;Almonds;2
+Carls Cookies;Almonds;2
+Carls Cookies;Almonds;2
+Carls Coffee;Frappe;13
+Toys R Us;Harry Potter Lego;45
